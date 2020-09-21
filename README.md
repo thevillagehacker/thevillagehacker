@@ -7,4 +7,4 @@
 - 💬 Ask me about Penetration Testing
 - 📫 How to reach me: nvnj1998@gmail.com
 - ⚡ together we hit harder.....
-- 🚶‍♂️F ollow me on twitter [@thevillagehackr](https://twitter.com/thevillagehackr) and [@TVHSecurity](https://twitter.com/TVHSecurity)
+- 🚶‍♂️F ollow me on twitter ![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social) and ![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)
