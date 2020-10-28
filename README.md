@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with freelancing.
 - 💬 Ask me about Penetration Testing.
 - 📫 How to reach me: nvnj1998@gmail.com.
-- ⚡ together we hit harder.....##Out hack them all
+- ⚡ ***#together we hit harder...#Out hack them all...***
 - 🚶‍♂️ Follow me on twitter [@thevillagehackr](https://twitter.com/thevillagehackr) and [@TVHSecurity](https://twitter.com/TVHSecurity)
 - 🌐 know about me more here http://thevillagehacker.github.io/
 ### My Gitbooks
