@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bug Hunting program on [HackerOne](https://hackerone.com/), [Bugcrowd](https://bugcrowd.com/) and [Intigrity](https://intigriti.com).
-- 📖 I’m currently learning GraphQL Hacking, OSCP and Bug reports from HackerOne.
-- 👯 I’m looking to collaborate on Bug Hunting.
-- 🤔 I’m looking for help with freelancing.
+- 🔭 I’m currently working as Security Engineer at [KGiSL-GSS](https://www.kgisl.com/gss/).
+- 📖 I’m currently learning GraphQL Hacking, OSCP and Bug Bounty reports from [HackerOne](https://hackerone.com).
+- 👯 I’m looking to collaborate on Bug Hunting and learning.
+- 🤔 I’m looking for help with new job opening.
 - 💬 Ask me about Penetration Testing.
 - 📫 How to reach me: nvnj1998@gmail.com.
 - ⚡ ***#Together we hit harder...#Out hack them all...***
