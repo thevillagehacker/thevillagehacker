@@ -15,4 +15,3 @@
 
 [![Naveen J's github stats](https://github-readme-stats.vercel.app/api?username=thevillagehacker&show_icons=true&theme=tokyonight)](https://github.com/thevillagehacker/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevillagehacker&layout=compact)](https://github.com/thevillagehacker/github-readme-stats)
-
