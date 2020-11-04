@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Bug Hunting program on HackerOne, Bugcrowd and Intigrity.
-- 🌱 I’m currently learning GraphQL Hacking, OSCP and Bug reports from HackerOne.
+- 📖 I’m currently learning GraphQL Hacking, OSCP and Bug reports from HackerOne.
 - 👯 I’m looking to collaborate on Bug Hunting.
 - 🤔 I’m looking for help with freelancing.
 - 💬 Ask me about Penetration Testing.
