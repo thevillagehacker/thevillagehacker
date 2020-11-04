@@ -13,5 +13,5 @@
 - ***[🛡️ Red Teaming Guide](https://thevillagehacker.gitbook.io/red-teaming/)***
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
 
-![Naveen J's git status](https://github-readme-stats.vercel.app/api?username=thevillagehacker&show_icons=true&theme=tokyonight)
+[![Naveen J's git status](https://github-readme-stats.vercel.app/api?username=thevillagehacker&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=thevillagehacker&show_icons=true&theme=tokyonight)
 
