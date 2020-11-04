@@ -16,5 +16,5 @@
 ***"No matter what,<br>
       Try Again,<br>
       Fail Again,<br>
-      Fail Better<br>
+      Fail Better.<br>
       Whatever it takes..."***
