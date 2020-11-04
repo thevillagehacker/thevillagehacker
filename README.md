@@ -7,7 +7,7 @@
 - 💬 Ask me about Penetration Testing.
 - 📫 How to reach me: nvnj1998@gmail.com.
 - ⚡ ***#Together we hit harder...#Out hack them all...***
-- 🚶‍♂️ Follow me on twitter [@thevillagehackr](https://twitter.com/thevillagehackr) and [@TVHSecurity](https://twitter.com/TVHSecurity)
+- 🚶‍♂️ Follow me on twitter [@thevillagehackr](https://twitter.com/thevillagehackr).
 - 🌐 know more about me here 👉 http://thevillagehacker.github.io/
 ### My Gitbooks
 - ***[🛡️ Red Teaming Guide](https://thevillagehacker.gitbook.io/red-teaming/)***
