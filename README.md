@@ -12,11 +12,5 @@
 ### My Gitbooks
 - ***[🛡️ Red Teaming Guide](https://thevillagehacker.gitbook.io/red-teaming/)***
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
-#### Follow these simple rule
-***"No matter what,<br>
-      Try Again,<br>
-      Fail Again,<br>
-      Fail Better.<br>
-      Whatever it takes..."***
 
 [![Naveen J's github stats](https://github-readme-stats.vercel.app/api?username=thevillagehacker&show_icons=true&theme=tokyonight)](https://github.com/thevillagehacker/github-readme-stats)
