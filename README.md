@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/-nvnj1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nvnj1998@gmail.com)](mailto:nvnj1998@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-jagadeesan/)](https://www.linkedin.com/in/naveen-jagadeesan/)
+
 - 🔭 I’m currently working as Security Engineer at [KGiSL-GSS](https://www.kgisl.com/gss/).
 - 🐞 I'm a Occassional Bug Bounty Hunter.
 - 📖 I’m currently learning GraphQL Hacking, OSCP and Bug Bounty reports from [HackerOne](https://hackerone.com).
