@@ -12,3 +12,5 @@
 ### My Gitbooks
 - ***[🛡️ Red Teaming Cheatsheet](https://thevillagehacker.gitbook.io/red-teaming/)***
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
+
+![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=thevillagehacker&count_private=true&theme=tokyonight)
