@@ -16,5 +16,6 @@
 ### My Gitbooks
 - ***[🛡️ Red Teaming Cheatsheet](https://thevillagehacker.gitbook.io/red-teaming/)***
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
+- ***[Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thevillagehacker&repo=Pentest-book-master)](https://github.com/thevillagehacker/Pentest-book-master)-->
