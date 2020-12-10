@@ -1,4 +1,4 @@
-### Hi there, I'm Naveen J [@thevillagehacker](https://twitter.com/thevillagehackr)
+### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 [![Gmail Badge](https://img.shields.io/badge/-nvnj1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nvnj1998@gmail.com)](mailto:nvnj1998@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-jagadeesan)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr)
