@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
-- ⚡ ***#Together we hit harder...#Out hack them all...***
 - 🌐 know more about me here 👉 https://thevillagehacker.github.io
 ### My Gitbooks
 - ***[🛡️ Red Teaming Cheatsheet](https://thevillagehacker.gitbook.io/red-teaming/)***
