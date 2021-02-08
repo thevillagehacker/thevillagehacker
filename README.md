@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-jagadeesan)
 [![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40thevillagehackr&style=social&url=https%3A%2F%2Ftwitter.com%2Fthevillagehackr)](https://twitter.com/thevillagehackr)
 
-*Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements. Seasoned and fully dependable Security Engineer with exceptional record of competence and discretion. Adept at communicating with other engineers and clients in a clear and understandable manner. Able to maintain the highest standards of confidentiality in handling and protecting sensitive client information.*
+*Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
 
 - 🔭 I’m currently working as Security Engineer at [KGiSL-GSS](https://www.kgisl.com/gss/).
 - 🐞 I'm an Occassional Bug Bounty Hunter.
