@@ -1,6 +1,6 @@
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 [![Gmail Badge](https://img.shields.io/badge/-nvnj1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nvnj1998@gmail.com)](mailto:nvnj1998@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-jagadeesan)
+[![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thevillagehacker)
 [![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40thevillagehackr&style=social&url=https%3A%2F%2Ftwitter.com%2Fthevillagehackr)](https://twitter.com/thevillagehackr)
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
