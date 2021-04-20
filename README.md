@@ -1,7 +1,4 @@
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
-[![Gmail Badge](https://img.shields.io/badge/-nvnj1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nvnj1998@gmail.com)](mailto:nvnj1998@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-naveenj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thevillagehacker)
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40thevillagehackr&style=social&url=https%3A%2F%2Ftwitter.com%2Fthevillagehackr)](https://twitter.com/thevillagehackr)
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
 
@@ -12,6 +9,24 @@
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
 - 🌐 know more about me here 👉 https://thevillagehacker.github.io
+
+## Social Media
+<a href="https://www.linkedin.com/in/thevillagehacker/" target="_blank">
+  <img align="left" alt="Naveen's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/thevillagehacker" target="_blank">
+  <img align="left" alt="Naveen's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>
+<a href="https://thevillagehacker.medium.com/" target="_blank">
+  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+</a>
+<a href="https://thevillagehacker.github.io" target="_blank">
+  <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
+</a>
+<a href="mailto:nvnj1998@gmail.com" target="_blank">
+  <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
+</a>
+<br>
 
 ## Gitbooks
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
