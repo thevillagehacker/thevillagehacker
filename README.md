@@ -1,4 +1,4 @@
-![img](code.gif)
+![img](img.png)
 
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 
