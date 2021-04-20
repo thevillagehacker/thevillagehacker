@@ -12,7 +12,12 @@
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
 - 🌐 know more about me here 👉 https://thevillagehacker.github.io
-### Useful Gitbooks
 
+## Useful Gitbooks
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
 - ***[🤖 Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
+
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevillagehacker&hide_border=true&hide=html,css&theme=tokyonight" />
+</p>
