@@ -1,4 +1,4 @@
-![img](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Thumb.jpg)
+![img](https://pbs.twimg.com/profile_banners/1048933717123641345/1618467846/1500x500)
 
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 
@@ -39,3 +39,4 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevillagehacker&layout=compact&line_height=27&hide_border=true&theme=tokyonight)
+
