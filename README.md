@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/thevillagehacker/" target="_blank">
   <img align="left" alt="Naveen's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://twitter.com/thevillagehacker" target="_blank">
+<a href="https://twitter.com/thevillagehackr" target="_blank">
   <img align="left" alt="Naveen's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
 <a href="https://thevillagehacker.medium.com/" target="_blank">
