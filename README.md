@@ -1,4 +1,4 @@
-![img](img.png)
+![img](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Thumb.jpg)
 
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 
