@@ -23,7 +23,7 @@
   <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
 </a>
 <a href="https://thevillagehacker.github.io" target="_blank">
-  <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
+  <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
 <a href="mailto:nvnj1998@gmail.com" target="_blank">
   <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/envelope.png" />
