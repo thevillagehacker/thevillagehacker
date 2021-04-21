@@ -14,19 +14,19 @@
 
 ## Social Media
 <a href="https://www.linkedin.com/in/thevillagehacker/" target="_blank">
-  <img align="left" alt="Naveen's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img align="left" alt="Naveen's LinkedIn" width="30px" src="https://img.icons8.com/color/linkedin.png"/>
 </a>
 <a href="https://twitter.com/thevillagehackr" target="_blank">
-  <img align="left" alt="Naveen's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+  <img align="left" alt="Naveen's Twitter" width="30px" src="https://img.icons8.com/color/twitter.png"/>
 </a>
 <a href="mailto:nvnj1998@gmail.com" target="_blank">
-  <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/envelope.png" />
+  <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/gmail.png" />
 </a>
 <a href="https://thevillagehacker.github.io" target="_blank">
   <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
 <a href="https://thevillagehacker.medium.com/" target="_blank">
-  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/medium.png" />
 </a>
 <br>
 
