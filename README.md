@@ -26,7 +26,7 @@
   <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
 <a href="https://thevillagehacker.medium.com/" target="_blank">
-  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/medium.png" />
+  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/medium-monogram.png" />
 </a>
 <br>
 
