@@ -1,4 +1,4 @@
-![img](img.gif)
+![img](Do Hacks to Secure.gif)
 
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 
