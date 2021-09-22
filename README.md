@@ -4,7 +4,7 @@
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
 
-- 🔭 I’m currently working as Security Engineer at **[SISA Information Security](https://www.sisainfosec.com/).**
+- 🔭 I’m currently working as Associate Consultant in Application Security at **[SISA Information Security](https://www.sisainfosec.com/).**
 - 🐞 I'm an Occassional Bug Bounty Hunter.
 - 📖 I’m currently learning GraphQL Hacking, OSCP and Bug Bounty reports from [HackerOne](https://hackerone.com).
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
