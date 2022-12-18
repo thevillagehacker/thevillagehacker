@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Associate Consultant in Application Security at **[SISA Information Security](https://www.sisainfosec.com/).**
 - 🐞 I'm an Occassional Bug Bounty Hunter.
-- 📖 I’m currently learning GraphQL Hacking, OSCP and Bug Bounty reports from [HackerOne](https://hackerone.com).
+- 📖 I’m currently learning Web 3.0 Hacking, Smart Contract and Bug Bounty reports from [HackerOne](https://hackerone.com).
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
