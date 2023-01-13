@@ -33,10 +33,3 @@
 ## Gitbooks
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
 - ***[🤖 Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
-
-## GitHub Stats
-![img](https://github-readme-stats.vercel.app/api?username=thevillagehacker&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevillagehacker&layout=compact&line_height=27&hide_border=true&theme=tokyonight)
-
