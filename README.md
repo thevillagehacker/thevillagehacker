@@ -31,6 +31,3 @@
 ## Gitbooks
 - ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
 - ***[🤖 Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
-
-## Twitter tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thevillagehackr)](https://twitter.com/thevillagehackr)
