@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/thevillagehacker/" target="_blank">
   <img align="left" alt="Naveen's LinkedIn" width="30px" src="https://img.icons8.com/color/linkedin.png"/>
 </a>
-<a href="https://twitter.com/thevillagehackr" target="_blank">
-  <img align="left" alt="Naveen's Twitter" width="30px" src="https://img.icons8.com/color/twitter.png"/>
-</a>
 <a href="mailto:nvnj1998@gmail.com" target="_blank">
   <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/gmail.png" />
 </a>
