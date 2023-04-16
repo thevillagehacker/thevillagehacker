@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
-- 🌐 know more about me here 👉 https://thevillagehacker.github.io/about/
+- 🌐 know more about me here 👉 https://thevillagehacker.com/about/
 
 ## Social Media
 <a href="https://www.linkedin.com/in/thevillagehacker/" target="_blank">
