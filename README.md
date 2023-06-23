@@ -2,7 +2,7 @@
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
 
-- 🔭 I’m currently working as Associate Consultant in Application Security at **[SISA Information Security](https://www.sisainfosec.com/).**
+- 🔭 I’m currently working as a Application Security Specialist at **[SISA Information Security](https://www.sisainfosec.com/).**
 - 🐞 I'm an Occassional Bug Bounty Hunter.
 - 📖 I’m currently learning Web 3.0 Hacking, Smart Contracts and Bug Bounty reports from [HackerOne](https://hackerone.com).
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
@@ -17,7 +17,7 @@
 <a href="mailto:nvnj1998@gmail.com" target="_blank">
   <img align="left" alt="Naveen's E-Mail" width="30px" src="https://img.icons8.com/color/gmail.png" />
 </a>
-<a href="https://thevillagehacker.github.io" target="_blank">
+<a href="https://thevillagehacker.com" target="_blank">
   <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
 <a href="https://thevillagehacker.medium.com/" target="_blank">
