@@ -9,6 +9,3 @@
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
 - 🌐 know more about me here 👉 https://thevillagehacker.com/about/
-
-## Gitbooks
-- ***[🤖 Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
