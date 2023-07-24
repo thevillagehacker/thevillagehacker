@@ -11,5 +11,4 @@
 - 🌐 know more about me here 👉 https://thevillagehacker.com/about/
 
 ## Gitbooks
-- ***[✅ Web Pentest Checklist](https://thevillagehacker.gitbook.io/web-pentest-checklist/)***
 - ***[🤖 Onliners for Bug Hunting](https://thevillagehacker.gitbook.io/one-liners-for-bug-bounty-hunting/)***
