@@ -20,9 +20,6 @@
 <a href="https://thevillagehacker.com" target="_blank">
   <img align="left" alt="Naveen's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
-<a href="https://thevillagehacker.medium.com/" target="_blank">
-  <img align="left" alt="Naveen's Medium" width="30px" src="https://img.icons8.com/color/medium-monogram.png" />
-</a>
 <a href="https://twitter.com/thevillagehackr"><img src="https://user-images.githubusercontent.com/35542790/210373103-5b6562f4-db41-47c5-8275-dbc0e842e263.png" width="150" alt="Follow Twitter"></a>
 <br>
 
