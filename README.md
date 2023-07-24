@@ -1,3 +1,5 @@
+![img](https://github.com/thevillagehacker/thevillagehacker/blob/master/Do%20Hacks%20to%20Secure.gif?raw=true)
+
 ### Hi there, I'm Naveen J AKA [TheVillageHacker](https://twitter.com/thevillagehackr)
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
