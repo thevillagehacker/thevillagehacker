@@ -11,3 +11,16 @@
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
 - 🌐 know more about me here 👉 https://thevillagehacker.com/about/
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thevillagehacker&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thevillagehacker&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevillagehacker&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thevillagehacker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thevillagehacker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=thevillagehacker&icon=0&color=0)](https://visitcount.itsvg.in)
