@@ -4,7 +4,7 @@
 
 *Hey everyone! My name is Naveen, and I'm currently working in the cybersecurity realm as a penetration tester, performing security testing ranging from network penetration, web application assessments to social engineering and physical engagements.*
 
-- 🔭 I’m currently working as a Application Security Specialist at **[Societe Generale](https://www.societegenerale.com/en).**
+- 🔭 I’m currently working as a Senior Security Analyst at **[Societe Generale](https://www.societegenerale.com/en).**
 - 🐞 I'm an Occassional Bug Bounty Hunter.
 - 📖 I’m currently learning Web 3.0 Hacking, Smart Contracts and Bug Bounty reports from [HackerOne](https://hackerone.com).
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
