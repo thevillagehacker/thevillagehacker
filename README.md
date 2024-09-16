@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
-- 🌐 know more about me here 👉 https://thevillagehacker.com/about/
+- 🌐 know more about me here 👉 https://thevillagehacker.com/
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thevillagehacker&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
