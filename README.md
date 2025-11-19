@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Penetration Testing.
 - 🌐 know more about me here 👉 https://thevillagehacker.com/
+- 📖 GitBook [read here](https://thevillagehacker-security.gitbook.io/ctf-writeups)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thevillagehacker&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
